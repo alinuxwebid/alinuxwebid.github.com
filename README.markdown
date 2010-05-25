@@ -53,3 +53,18 @@ All contents and code <a href="http://alinux.web.id" target="_new">this site</a>
 > 2. RSS Feed icon by [jobs.jsninja.com](jobs.jsninja.com).
 > 3. Smartgit icon by [vo2ov.com](vo2ov.com).
 > 4. Favicon by [markdown](daringfireball.net/projects/markdown/).
+
+
+## Changelog:
+
+[readme please](/changelog.markdown)
+
+
+Thanks for reading this `readme`.
+dedicated to my luvly `dukuh atas i'm on in love` *ihiy.. :D
+oh no dude, just kidding.. :D of course dedicated to FOSS Community. ;)
+
+regards,
+Dian Griyana P.
+mail: de@deanet.web.id
+

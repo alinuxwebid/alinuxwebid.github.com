@@ -24,10 +24,10 @@ If you want to use the code as my [site](http://alinux.web.id), you need:
 
 > 2. Make sure you've authorize of directory `/var/www` for root directory of web services. `rake` file on my repo using `/var/www` for directory web. you can skip this step if you know what are u doing on `rake` file.
 
-> 3. Ruby
+> 3. Ruby. 
 on debian base you just type: `apt-get install ruby`
 
-> 4. Jekyll
+> 4. Jekyll. 
 Please take a look out on [http://github.com/mojombo/jekyll](http://github.com/mojombo/jekyll) for jekyll installation. **Make sure runtime dependencies was installed before you git source code my site.**
 
 > 5. Git source code my site:

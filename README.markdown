@@ -57,12 +57,12 @@ All contents and code <a href="http://alinux.web.id" target="_new">this site</a>
 
 ## Changelog:
 
-[readme please](/changelog.markdown)
+[readme please](/CHANGELOG.markdown)
 
 
 Thanks for reading this `readme`.
-dedicated to my luvly `dukuh atas i'm on in love` *ihiy.. :D
-oh no dude, just kidding.. :D of course dedicated to FOSS Community. ;)
+dedicated to my luvly `i'm falling in love` *ihiy.. :D
+oh no dude, just kidding.. :D of course main dedicated to FOSS Community. ;)
 
 regards,
 Dian Griyana P.

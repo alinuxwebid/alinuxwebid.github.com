@@ -22,31 +22,21 @@ If you want to use the code as my [site](http://alinux.web.id), you need:
 > 2. Make sure you've authorize of directory `/var/www` for root directory of web services. `rake` file on my repo using `/var/www` for directory web. you can skip this step if you know what are u doing on `rake` file.
 
 > 3. Ruby
-
-on debian base you just type:
-
-`apt-get install ruby`
+on debian base you just type: `apt-get install ruby`
 
 > 4. Jekyll
-
-Please take a look out on [http://github.com/mojombo/jekyll](http://github.com/mojombo/jekyll) for jekyll installation.
-
-Make sure runtime dependencies was installed before you git source code my site.
+Please take a look out on [http://github.com/mojombo/jekyll](http://github.com/mojombo/jekyll) for jekyll installation. **Make sure runtime dependencies was installed before you git source code my site.**
 
 > 5. Git source code my site:
 
 `whatever@~: $ git clone git@github.com:alinuxwebid/alinuxwebid.github.com.git`
 
-after you git, you'll see directory alinuxwebid.github.com.
-
-then you can generate static by typing `rake publish`.
-
+After you git it, you'll see directory `alinuxwebid.github.com`. Then you can generate static by typing `rake publish`.
 
 static site will generate on defaults directory `_sites`
 
 
 ## Migrate from Wordpress to Jekyll
-
 What should you do?
 
 > 1. you need installed wordpress.
@@ -54,8 +44,7 @@ What should you do?
 
 
 ## How to add comments discussion ?
-
-you need register on [disqus.com](disqus.com) to add comments discussion.
+you need register on [disqus.com](disqus.com) to add comments discussion on the code.
 
 
 ##License:

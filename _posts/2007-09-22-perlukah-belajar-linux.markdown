@@ -38,7 +38,7 @@ Ketika saya perhatikan, file output dari software tersebut memiliki pola yang be
  Problem Solving :
 ==================
 
-Saya-pun memberitahukan rekan saya tersebut beberapa rahasia Linux/UNIX. Rahasianya adalah sebagai berikut : Andaikan file ASCII tersebut bernama dataku. Maka untuk membuat file output yang berbentuk data x dan y, maka kita cukup gunakan kombinasi perintah Linux seperti cat, grep, awk, paste, "&gt;" (redirection), dan "|" (pipe).
+Saya-pun memberitahukan rekan saya tersebut beberapa rahasia Linux/UNIX. Rahasianya adalah sebagai berikut : Andaikan file ASCII tersebut bernama dataku. Maka untuk membuat file output yang berbentuk data x dan y, maka kita cukup gunakan kombinasi perintah Linux seperti cat, grep, awk, paste, ">" (redirection), dan "|" (pipe).
 Sebagai contoh, bila kita ketikkan
 
 	cat dataku | grep 'x-value='
@@ -63,17 +63,17 @@ maka kita akan dapatkan:
 	::: (dan seterusnya)
 	:::
 
-Untuk menyimpan ke file kita gunakan tanda "&gt;" dan nama file output. Jadi lengkapnya
+Untuk menyimpan ke file kita gunakan tanda ">" dan nama file output. Jadi lengkapnya
 	
-	cat dataku | grep 'x-value=' | awk '{print $2}' &gt; datax
+	cat dataku | grep 'x-value=' | awk '{print $2}' > datax
 
 Untuk menyimpan data y, cukup ketikkan :
 
-	cat dataku | grep 'y-value=' | awk '{print $2}' &gt; datay
+	cat dataku | grep 'y-value=' | awk '{print $2}' > datay
 
 Bagaimana menggabung kedua file tersebut? Cukup gunakan :
 	
-	paste -d' ' datax datay &gt; dataxy
+	paste -d' ' datax datay > dataxy
 
 Kalau kita display isi file dataxy dengan more dataxy atau cat dataxy maka akan kita dapatkan :
 	0.0000e+00 1.0000e+00

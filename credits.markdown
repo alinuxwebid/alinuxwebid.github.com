@@ -1,7 +1,11 @@
-
+---
+layout: default
+title: credits
+---
+##Credits:
 I was moving blog engine from `wordpress` into `jekyll` `ruby` framework with few modification.. You can bit of the code on my [Github](http://github.com/alinuxwebid/) account. Please take a look readme or changelog.
 
-I wanna say thanks for credits, without them, this site just nothing.
+I wanna say thanks for credits, without them, this site just nothing. 
 
 > 1. [Tom](http://tom.preston-werner.com) for [Jekyll](http://jekyllrb.com).
 > 2. [Andrew Carter](http://ascarter.net) for the theme and code.

@@ -47,7 +47,7 @@ What should you do?
 
 
 ## How to add comments discussion ?
-you need register on [disqus.com](disqus.com) to add comments discussion on the code.
+you need register on [disqus.com](http://disqus.com) to add comments discussion on the code.
 
 
 ##License:

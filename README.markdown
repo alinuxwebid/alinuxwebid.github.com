@@ -63,11 +63,13 @@ All contents and code <a href="http://alinux.web.id" target="_new">this site</a>
 [readme please](/CHANGELOG.markdown)
 
 
-Thanks for reading this `readme`.
-dedicated to my luvly `i'm falling in love` *ihiy.. :D
-oh no dude, just kidding.. :D of course main dedicated to FOSS Community. ;)
+## at last
 
-regards,
-Dian Griyana P.
-mail: de@deanet.web.id
+Thanks for reading this `readme`.<br/>
+dedicated to my luvly `i'm falling in love` *ihiy.. :D<br/>
+oh no dude, just kidding.. :D of course main dedicated to FOSS Community. ;)<br/>
+<br/>
+regards,<br/>
+Dian Griyana P.<br/>
+mail: de@deanet.web.id<br/>
 

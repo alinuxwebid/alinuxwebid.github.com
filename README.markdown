@@ -51,7 +51,7 @@ you need register on [disqus.com](disqus.com) to add comments discussion on the 
 
 
 ##License:
-All contents and code <a href="http://alinux.web.id" target="_new">this site</a> is `free` as long as you backlink to <a href="/index.html">this site</a>, except for:
+All contents and code <a href="http://alinux.web.id" target="_new">this site</a> is `free` as long as you backlink to <a href="http://alinux.web.id">this site</a>, except for:
 > 1. [Jekyll](http://github.com/mojombo/jekyll) by The MIT License, Tom Preston-Werner
 > 2. RSS Feed icon by [jobs.jsninja.com](jobs.jsninja.com).
 > 3. Smartgit icon by [vo2ov.com](vo2ov.com).

@@ -1,4 +1,7 @@
 
+#Please don't touch anything files
+#This is repo for site [alinux.web.id](http://alinux.web.id)
+
 ## Muqadimah
 
 I was moving blog engine from `wordpress` into `jekyll` `ruby` framework with few modification.. You can bit of the code on my [Github](http://github.com/alinuxwebid/) account. Please take a look readme or changelog.

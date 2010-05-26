@@ -36,7 +36,13 @@ Please take a look out on [http://github.com/mojombo/jekyll](http://github.com/m
 
 After you git it, you'll see directory `alinuxwebid.github.com`. Then you can generate static by typing `rake publish`.
 
-static site will generate on defaults directory `_sites`
+static site will generate on defaults directory `_sites` or `destination` value on `_config.yml`.
+
+
+#Contents
+
+You can use my contents for example on directory `_rename2posts` by renaming it into` _posts`.
+
 
 
 ## Migrate from Wordpress to Jekyll

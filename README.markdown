@@ -34,7 +34,7 @@ Please take a look out on [http://github.com/mojombo/jekyll](http://github.com/m
 
 `whatever@~: $ git clone git@github.com:alinuxwebid/alinuxwebid.github.com.git`
 
-After you git it, you'll see directory `alinuxwebid.github.com`. `cd alinuxwebid.github.com`, then you can generate static by typing `rake publish`.
+After you git it, you'll see directory `alinuxwebid.github.com`. `cd alinuxwebid.github.com`, then you can generate by typing `rake publish`.
 
 static site will generate on defaults directory `_sites` or `destination` value on `_config.yml`.
 

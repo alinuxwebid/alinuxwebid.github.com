@@ -47,7 +47,9 @@ end
 
 desc "Generate site."
 task :build do
-  sh "jekyll"
+ sh "rm -rf /var/www/*"
+ puts "cleaning /var/www/ is done"
+ sh "jekyll"
 end
 
 desc "Run local jekyll server"
@@ -58,7 +60,7 @@ end
 desc "Publish site."
 task :publish => [ :build ] do |t|
  # sh "rsync -avz --delete #{SITE_DIR}/ #{PUBLISH_HOST}:#{PUBLISH_PATH}"
- sh "rm -rf /var/www/*;cp -r _site/* /var/www/"
+ #sh "rm -rf /var/www/*;cp -r _site/* /var/www/"
  # puts "Commit your posts and changes.\nThen run:\n  git push origin master"
 end
 

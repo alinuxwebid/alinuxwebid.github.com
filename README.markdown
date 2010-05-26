@@ -52,11 +52,11 @@ you need register on [disqus.com](http://disqus.com) to add comments discussion 
 
 ##License:
 All contents and code <a href="http://alinux.web.id" target="_new">this site</a> is `free` as long as you backlink to <a href="http://alinux.web.id">this site</a>, except for:
-> 1. [Jekyll](http://github.com/mojombo/jekyll) by The MIT License, Tom Preston-Werner
-> 2. RSS Feed icon by [jobs.jsninja.com](http://jobs.jsninja.com).
-> 3. Smartgit icon by [vo2ov.com](http://vo2ov.com).
-> 4. Favicon by [markdown](http://daringfireball.net/projects/markdown/).
+> 1. RSS Feed icon by [jobs.jsninja.com](http://jobs.jsninja.com).
+> 2. Smartgit icon by [vo2ov.com](http://vo2ov.com).
+> 3. Favicon by [markdown](http://daringfireball.net/projects/markdown/).
 
+> [Jekyll](http://github.com/mojombo/jekyll) by The MIT License, Tom Preston-Werner
 
 ## Changelog:
 

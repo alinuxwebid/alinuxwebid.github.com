@@ -20,7 +20,7 @@ I wanna say thanks for credits, without them, <a href="http://alinux.web.id" tar
 If you want to use the code as my [site](http://alinux.web.id), you need:
 
 
-> 1. Install `apache2`, `nginx` or other web services
+> 1. Install `apache2`, `nginx` or other web services (Jekyll own service)
 
 > 2. Make sure you've authorize of directory `/var/www` for root directory of web services. `rake` file on my repo using `/var/www` for directory web. you can skip this step if you know what are u doing on `rake` file.
 

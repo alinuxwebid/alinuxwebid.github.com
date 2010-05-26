@@ -60,7 +60,7 @@ All contents and code <a href="http://alinux.web.id" target="_new">this site</a>
 
 ## Changelog:
 
-[readme please](http://github.com/alinuxwebid/alinuxwebid.github.com/CHANGELOG.markdown)
+[readme please](http://github.com/alinuxwebid/alinuxwebid.github.com/blob/master/CHANGELOG.markdown)
 
 
 ## at last

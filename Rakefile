@@ -59,7 +59,7 @@ desc "Publish site."
 task :publish => [ :build ] do |t|
  # sh "rsync -avz --delete #{SITE_DIR}/ #{PUBLISH_HOST}:#{PUBLISH_PATH}"
  sh "rm -rf /var/www/*;cp -r _site/* /var/www/"
- puts "Commit your posts and changes.\nThen run:\n  git push origin master"
+ # puts "Commit your posts and changes.\nThen run:\n  git push origin master"
 end
 
 desc "Create a new draft post"

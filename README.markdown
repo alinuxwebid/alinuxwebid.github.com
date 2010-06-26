@@ -76,5 +76,9 @@ dedicated to my luvly `i'm falling in love` *ihiy.. :D<br/>
 oh no dude, just kidding.. :D of course main dedicated to FOSS Community. ;)<br/>
 <br/>
 regards,<br/>
+<<<<<<< HEAD:README.markdown
 email: admin@deanet.web.id <br/>
+=======
+mail: admin@deanet.web.id <br/>
+>>>>>>> 6209164133a52d2ede20b58d8b795d391472f2e2:README.markdown
 

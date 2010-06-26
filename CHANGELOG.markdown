@@ -13,6 +13,7 @@ I've few modified of originally code from [Andrew](http://ascarter.net).
 <<<<<<< HEAD:CHANGELOG.markdown
 <<<<<<< HEAD:CHANGELOG.markdown
 <<<<<<< HEAD:CHANGELOG.markdown
+<<<<<<< HEAD:CHANGELOG.markdown
 
 .
 =======
@@ -20,6 +21,10 @@ I've few modified of originally code from [Andrew](http://ascarter.net).
 =======
 ben error;p
 >>>>>>> 40c27b7c88cf410b1f9306efd4fe2645c4843dbd:CHANGELOG.markdown
+=======
+ben error;p
+pie kie dab... selak ngelih plus rung sholat
+>>>>>>> 6209164133a52d2ede20b58d8b795d391472f2e2:CHANGELOG.markdown
 =======
 ben error;p
 pie kie dab... selak ngelih plus rung sholat

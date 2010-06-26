@@ -11,3 +11,4 @@ I've few modified of originally code from [Andrew](http://ascarter.net).
 -. Substitution for footer icon with header menu.<br/>
 -. Add disqus comments.<br/>
 ben error;p
+pie kie dab... selak ngelih plus rung sholat
